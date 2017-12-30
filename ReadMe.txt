@@ -1,1 +1,1 @@
-This projects holds the snippets & nodes for nodejs practice.
+This projects holds the snippets & notes for nodejs practice.
